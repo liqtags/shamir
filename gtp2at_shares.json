@@ -1,0 +1,132 @@
+[
+  {
+    "version": 1,
+    "id": "d10b5ef8-ff59-4e16-9bdb-4b3f8a3a574c",
+    "share": {
+      "total": 5,
+      "threshold": 3,
+      "encrypted": true,
+      "share_sha512": "08f69b0295c536c4c7c5e6611624b5a4ddbef62a37a7fc41a191a8d6667468e0f408826c9ffe0b9b543fa592a36ca74668895323941e5025450df647c74808a5",
+      "secret_sha512": "309ecc489c12d6eb4cc40f50c902f2b4d0ed77ee511a7c7a9bcd3ca86d4cd86f989dd35bc5ff499670da34255b45b0cfd830e81f605dcf7dc5542e93ae9cd76f"
+    },
+    "crypto": {
+      "ciphertext": "726d2bfc994c7f07426fc39169a51ff52e5cf9f214418c6f358a8d33",
+      "cipherparams": {
+        "iv": "243,24,238,186,142,120,99,43,92,239,121,177",
+        "name": "AES-GCM",
+        "length": 256
+      },
+      "kdf": "PBKDF2",
+      "kdfparams": {
+        "salt": "240,58,26,135,244,86,212,16,3,125,84,232,14,51,207,41",
+        "iterations": 100000,
+        "hash": "SHA-256"
+      }
+    },
+    "algorithm": "shamir-secret-sharing"
+  },
+  {
+    "version": 1,
+    "id": "c273800a-c56d-44af-b8ed-66ba811213fb",
+    "share": {
+      "total": 5,
+      "threshold": 3,
+      "encrypted": true,
+      "share_sha512": "f5b3fd1e2bcceed566d7043ef7423441cc43545fbab4c13260faf44723d8a55ddd178ade05db13c7f7467b5340a60aaae028e6b9db86d105997622d7fbd562fe",
+      "secret_sha512": "309ecc489c12d6eb4cc40f50c902f2b4d0ed77ee511a7c7a9bcd3ca86d4cd86f989dd35bc5ff499670da34255b45b0cfd830e81f605dcf7dc5542e93ae9cd76f"
+    },
+    "crypto": {
+      "ciphertext": "6586b5f995e2bc8bbc2cc2f261236fa71d79fccb96bfc40ddffff5d9",
+      "cipherparams": {
+        "iv": "169,11,110,203,173,87,58,254,164,136,253,205",
+        "name": "AES-GCM",
+        "length": 256
+      },
+      "kdf": "PBKDF2",
+      "kdfparams": {
+        "salt": "246,88,157,15,42,175,150,57,145,51,182,240,167,36,103,7",
+        "iterations": 100000,
+        "hash": "SHA-256"
+      }
+    },
+    "algorithm": "shamir-secret-sharing"
+  },
+  {
+    "version": 1,
+    "id": "6a70ea6b-49ad-4c08-a0f1-eb66f4ae2d2a",
+    "share": {
+      "total": 5,
+      "threshold": 3,
+      "encrypted": true,
+      "share_sha512": "835cc38001f57979ff1d8b9e8ed650d33b98eed60d8e7b64d1e43ebb1c32ec7ef0a4d044683a7bf819ec40b5571355f26c4addd31c1044e6fe28790ab6e3a406",
+      "secret_sha512": "309ecc489c12d6eb4cc40f50c902f2b4d0ed77ee511a7c7a9bcd3ca86d4cd86f989dd35bc5ff499670da34255b45b0cfd830e81f605dcf7dc5542e93ae9cd76f"
+    },
+    "crypto": {
+      "ciphertext": "984b1ee0a67e95bb91b6b0da95ed588dde618eca96a3a1ac265ad372",
+      "cipherparams": {
+        "iv": "159,164,88,105,249,155,155,65,231,187,143,19",
+        "name": "AES-GCM",
+        "length": 256
+      },
+      "kdf": "PBKDF2",
+      "kdfparams": {
+        "salt": "202,108,102,20,178,204,173,193,169,114,193,138,158,216,47,38",
+        "iterations": 100000,
+        "hash": "SHA-256"
+      }
+    },
+    "algorithm": "shamir-secret-sharing"
+  },
+  {
+    "version": 1,
+    "id": "a2ca401c-e8ab-483c-8836-42ddb1ddab9d",
+    "share": {
+      "total": 5,
+      "threshold": 3,
+      "encrypted": true,
+      "share_sha512": "42bef043c503bd5d5103c73890cafa0706603525d55618a376ed1b3a45275fd0c915be82c872051be45ebe48ca759086668e8cbd597fde9fc4b7655993208659",
+      "secret_sha512": "309ecc489c12d6eb4cc40f50c902f2b4d0ed77ee511a7c7a9bcd3ca86d4cd86f989dd35bc5ff499670da34255b45b0cfd830e81f605dcf7dc5542e93ae9cd76f"
+    },
+    "crypto": {
+      "ciphertext": "3318c8cc0a7e78430687fb275d9295ca314a13c6ada6ff0128bb1544",
+      "cipherparams": {
+        "iv": "83,140,61,110,38,58,181,151,55,125,29,106",
+        "name": "AES-GCM",
+        "length": 256
+      },
+      "kdf": "PBKDF2",
+      "kdfparams": {
+        "salt": "116,239,63,9,152,216,213,111,241,117,192,22,85,250,81,185",
+        "iterations": 100000,
+        "hash": "SHA-256"
+      }
+    },
+    "algorithm": "shamir-secret-sharing"
+  },
+  {
+    "version": 1,
+    "id": "cc0fca7e-9c2e-4b70-b43e-7283b7749655",
+    "share": {
+      "total": 5,
+      "threshold": 3,
+      "encrypted": true,
+      "share_sha512": "489e5be3bf484c3497c32b0ae2dca80d36b539e09b34e980ddbfc563cd45db52277d950dfb9cb29b9a94911d876d8b3e407c3a9bab363c561c5dee371489d18d",
+      "secret_sha512": "309ecc489c12d6eb4cc40f50c902f2b4d0ed77ee511a7c7a9bcd3ca86d4cd86f989dd35bc5ff499670da34255b45b0cfd830e81f605dcf7dc5542e93ae9cd76f"
+    },
+    "crypto": {
+      "ciphertext": "f1258d7d21ee20ba37224f4a9705258f37da60faee0b2a684bc12101",
+      "cipherparams": {
+        "iv": "42,11,16,126,20,241,22,49,40,232,108,247",
+        "name": "AES-GCM",
+        "length": 256
+      },
+      "kdf": "PBKDF2",
+      "kdfparams": {
+        "salt": "98,102,229,37,221,234,148,243,6,42,152,122,75,70,231,225",
+        "iterations": 100000,
+        "hash": "SHA-256"
+      }
+    },
+    "algorithm": "shamir-secret-sharing"
+  }
+]
