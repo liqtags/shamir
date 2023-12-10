@@ -3,10 +3,7 @@
 
 Shamir Secret Sharing implementation in Typescript
 
-  
-# WTF is Shamir's secret sharing?
-
-  
+# What is Shamir's secret sharing?
 
 Shamir's secret sharing is an efficient secret sharing algorithm for distributing private information among a group so that the secret cannot be revealed unless a quorum of the group acts together to pool their knowledge
 
